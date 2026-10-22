@@ -1,6 +1,6 @@
 ### Early Migration Seasonal Run Timing Data Transformation and AICc Analysis Code
-### Host et al. Escapement quality of sockeye salmon (Oncorhynchus nerka) returning to a glacially dominated watershed: relationships among body size, somatic energy, reproductive investment, and migratory difficulty
-### Published with Canadian Journal of Fisheries and Aquatic Sciences
+### Host et al. Fitness-associated traits of Sockeye Salmon returning to a glacial river
+### Published with AFS Marine and Coastal Fisheries
 # March 23, 2026
 
 #Important note on Seasonal Run Timing Raw Data: contains data from 2019-2021, raw data file is named "EarlyMigration_RunTimingGroup_RawData.csv"
