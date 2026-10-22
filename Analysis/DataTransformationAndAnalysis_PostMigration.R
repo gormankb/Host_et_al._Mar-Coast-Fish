@@ -1,6 +1,6 @@
 ### Post Migration Spawning Population Data Transformation and AICc Analysis Code of
-### Host et al. Escapement quality of sockeye salmon (Oncorhynchus nerka) returning to a glacially dominated watershed: relationships among body size, somatic energy, reproductive investment, and migratory difficulty
-### Published with Canadian Journal of Fisheries and Aquatic Sciences
+### Host et al. Fitness-associated traits of Sockeye Salmon returning to a glacial river
+### Published with AFS Coastal and Marine Fisheries
 # April 2, 2026
 
 #Important notes on the genetic population data: It only has data from 2019 and 2021. 
